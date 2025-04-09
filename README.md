@@ -15,7 +15,7 @@ The objective of this project is to implement a Random Forest Regressor from scr
 - Visualization of results: prediction errors, true vs predicted prices
 - Comparison with Scikit-learn's RandomForestRegressor
 
-Results
+# Results
 - Best R² (from scratch): 0.7581
 - Corresponding MSE: 2.12e+12
 - Sklearn R²: 0.99999
